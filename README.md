@@ -1,2 +1,2 @@
 # first-resume
-Tells a little about me
+Talks a little about me
